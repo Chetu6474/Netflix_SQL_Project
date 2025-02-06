@@ -30,7 +30,7 @@ Below are the key business problems addressed in this project:
 
 ### **Problem 1: [Describe the Problem]**  
 #### **Code Implementation**  
-![Problem 1 Code](images/problem1_code.png)  
+![Problem 1 Code](![image](https://github.com/user-attachments/assets/320509c3-5be0-4f3f-b001-622848a60ada))  
 
 #### **Solution Output**  
 ![Problem 1 Solution](images/problem1_solution.png)  
