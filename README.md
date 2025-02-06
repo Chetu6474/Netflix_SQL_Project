@@ -28,20 +28,127 @@ The dataset contains over **8,500 records**, and various business problems are a
 
 Below are the key business problems addressed in this project:  
 
-1. **Problem 1** – [Solution Summary]  
-2. **Problem 2** – [Solution Summary]  
-3. **Problem 3** – [Solution Summary]  
-4. **Problem 4** – [Solution Summary]  
-5. **Problem 5** – [Solution Summary]  
-6. **Problem 6** – [Solution Summary]  
-7. **Problem 7** – [Solution Summary]  
-8. **Problem 8** – [Solution Summary]  
-9. **Problem 9** – [Solution Summary]  
-10. **Problem 10** – [Solution Summary]  
-11. **Problem 11** – [Solution Summary]  
-12. **Problem 12** – [Solution Summary]  
-13. **Problem 13** – [Solution Summary]  
-14. **Problem 14** – [Solution Summary]  
-15. **Problem 15** – [Solution Summary]  
+### **Problem 1: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 1 Code](images/problem1_code.png)  
+
+#### **Solution Output**  
+![Problem 1 Solution](images/problem1_solution.png)  
+
+---
+
+### **Problem 2: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 2 Code](images/problem2_code.png)  
+
+#### **Solution Output**  
+![Problem 2 Solution](images/problem2_solution.png)  
+
+---
+
+### **Problem 3: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 3 Code](images/problem3_code.png)  
+
+#### **Solution Output**  
+![Problem 3 Solution](images/problem3_solution.png)  
+
+---
+
+### **Problem 4: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 4 Code](images/problem4_code.png)  
+
+#### **Solution Output**  
+![Problem 4 Solution](images/problem4_solution.png)  
+
+---
+
+### **Problem 5: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 4 Code](images/problem4_code.png)  
+
+#### **Solution Output**  
+![Problem 4 Solution](images/problem4_solution.png)  
+
+---
+### **Problem 6: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 4 Code](images/problem4_code.png)  
+
+#### **Solution Output**  
+![Problem 4 Solution](images/problem4_solution.png)  
+
+---
+### **Problem 7: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 4 Code](images/problem4_code.png)  
+
+#### **Solution Output**  
+![Problem 4 Solution](images/problem4_solution.png)  
+
+---
+### **Problem 8: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 4 Code](images/problem4_code.png)  
+
+#### **Solution Output**  
+![Problem 4 Solution](images/problem4_solution.png)  
+
+---
+### **Problem 9: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 4 Code](images/problem4_code.png)  
+
+#### **Solution Output**  
+![Problem 4 Solution](images/problem4_solution.png)  
+
+---
+### **Problem 10: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 4 Code](images/problem4_code.png)  
+
+#### **Solution Output**  
+![Problem 4 Solution](images/problem4_solution.png)  
+
+---
+### **Problem 11: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 4 Code](images/problem4_code.png)  
+
+#### **Solution Output**  
+![Problem 4 Solution](images/problem4_solution.png)  
+
+---
+### **Problem 12: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 4 Code](images/problem4_code.png)  
+
+#### **Solution Output**  
+![Problem 4 Solution](images/problem4_solution.png)  
+
+---
+### **Problem 13: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 4 Code](images/problem4_code.png)  
+
+#### **Solution Output**  
+![Problem 4 Solution](images/problem4_solution.png)  
+
+---
+### **Problem 14: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 4 Code](images/problem4_code.png)  
+
+#### **Solution Output**  
+![Problem 4 Solution](images/problem4_solution.png)  
+
+---
+### **Problem 15: [Describe the Problem]**  
+#### **Code Implementation**  
+![Problem 4 Code](images/problem4_code.png)  
+
+#### **Solution Output**  
+![Problem 4 Solution](images/problem4_solution.png)  
 
 ---
