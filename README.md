@@ -11,7 +11,6 @@ The dataset contains over **8,500 records**, and various business problems are a
 ## **Tech Stack Used**  
 - **Database**: PostgreSQL  
 - **Data Processing**: Excel  
-- **Visualization**: Power BI / Tableau (if applicable)  
 
 ---
 
