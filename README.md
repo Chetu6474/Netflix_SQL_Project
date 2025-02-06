@@ -1,8 +1,6 @@
 ![Alt text](https://github.com/Chetu6474/Netflix_SQL_Project/blob/main/netflix_project/Netflix_LinkdinHeader_N_Texture_5.png?raw=true)
 # **Netflix Data Analysis Project**  
 
-# **Netflix Data Analysis Project**  
-
 ## **📖 Project Overview**  
 This project aims to analyze Netflix data using **PostgreSQL** and **Excel**, with additional **data visualizations** to gain insights.  
 The dataset contains over **8,500 records**, and various business problems are addressed using SQL queries and analytical techniques.  
